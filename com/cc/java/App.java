@@ -12,9 +12,6 @@ public class App {
         output(queen.doYourJob());
         output(drone.doYourJob());
 
-        // Das sollte eigentlich nicht gehen!
-        HoneyBee bee = new HoneyBee();
-        output(bee.doYourJob());
 
         output("----------------");
 
